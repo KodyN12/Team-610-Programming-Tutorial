@@ -1,5 +1,4 @@
 # Team 610 Programming Tutorial
-<br>
 <b>Authors: Kody Neldner 23'</b>
 
 <h2>First Robotics Competiiton Team 610 Programming Tutorial</h2>
@@ -16,4 +15,3 @@ With that being said, grab your rubber duck, settle down somewhere comfy, and le
 [Intro](Intro.md)
 
 [Conventions](Conventions.md)
-
