@@ -20,7 +20,7 @@ With that being said, grab your rubber duck, settle down somewhere comfy, and le
 
 <ol>
     <li><a href="Download.md">Download WPILib Tools</a></li>
-    <li>[Creating a program](CreatingProgram.md)</li>
-    <li>[Connecting to the robot](ConnectToBot.md)</li>
-    <li>[Running a program](RunProgram.md)</li>
+    <li><a href="CreatingProgram.md">Creating a program</a></li>
+    <li><a href="ConnectToBot.md">Connecting to the robot</a></li>
+    <li><a href="RunProgram.md">Running a program</a></li>
 </ol>
