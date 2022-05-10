@@ -2,7 +2,7 @@
 
 For all FRC Programming and Software things, you will be using WPILib's collection of tools. Of course, you will need to download these.<br>
 
-<b>An important thing to note is that this gets updated throughout the year, so you will need to redo the download every once in a while</b><br>
+<b>An important thing to note is that this gets updated throughout the year, so you will need to update your own version. To do this, just follow this tutorial again!</b><br>
 
 The latest release of WPILib's tools can be found at this [link](https://github.com/wpilibsuite/allwpilib/releases)<br>
 
