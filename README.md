@@ -15,8 +15,11 @@ With that being said, grab your rubber duck, settle down somewhere comfy, and le
 [Conventions](Conventions.md)
 
 <b>Beginning</b>
+
+[Download WPILib Tools](Download.md)
+
 <ol>
-    <li>[Download WPILib Tools](Download.md)</li>
+    <li><a href="Download.md">Download WPILib Tools</a></li>
     <li>[Creating a program](CreatingProgram.md)</li>
     <li>[Connecting to the robot](ConnectToBot.md)</li>
     <li>[Running a program](RunProgram.md)</li>
