@@ -10,8 +10,14 @@ Things should be in sequential order of where to start and end, but jump to what
 With that being said, grab your rubber duck, settle down somewhere comfy, and lets get right into it!
 
 ---
-<h3>Tutorials</h3>
-
-[Intro](Intro.md)
+<h3>File List</h3>
 
 [Conventions](Conventions.md)
+
+<b>Beginning</b>
+<ol>
+    <li>[Download WPILib Tools](Download.md)</li>
+    <li>[Creating a program](CreatingProgram.md)</li>
+    <li>[Connecting to the robot](ConnectToBot.md)</li>
+    <li>[Running a program](RunProgram.md)</li>
+</ol>
